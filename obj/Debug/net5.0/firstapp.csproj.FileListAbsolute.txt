@@ -1,0 +1,16 @@
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.exe
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.deps.json
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.dll
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\bin\Debug\net5.0\firstapp.pdb
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.csprojAssemblyReference.cache
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.cs
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.csproj.CoreCompileInputs.cache
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.dll
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.pdb
+E:\MSCIT_SEM2\Microservices Architecture\console\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache
